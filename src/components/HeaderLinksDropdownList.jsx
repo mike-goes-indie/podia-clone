@@ -1,5 +1,4 @@
-import HeaderLinksCategory from './headerLinksCategory'
-
+import HeaderLinksCategory from './HeaderLinksCategory.jsx'
 
 const HeaderLinksDropdownList = ({ linksArray }) => {
   

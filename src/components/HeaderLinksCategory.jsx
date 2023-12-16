@@ -1,5 +1,4 @@
 
-
 const HeaderLinksCategory = ({ category, links, styles}) => {
   return (
     <div className={`${styles} bg-white flex flex-col py-6 pr-12 font-base pl-3 lg:py-0`}>
